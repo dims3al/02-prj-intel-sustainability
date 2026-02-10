@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Factory emissions turning to clean energy">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#131a2b" />
+      <stop offset="1" stop-color="#2a6cb8" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)" />
+  <rect x="120" y="260" width="200" height="140" fill="#1b2e4f" stroke="#7ab7ff" stroke-width="3" />
+  <rect x="160" y="210" width="40" height="70" fill="#1b2e4f" stroke="#7ab7ff" stroke-width="3" />
+  <rect x="230" y="230" width="40" height="50" fill="#1b2e4f" stroke="#7ab7ff" stroke-width="3" />
+  <g fill="#9ad6ff" opacity="0.8">
+    <circle cx="200" cy="190" r="18" />
+    <circle cx="230" cy="165" r="14" />
+    <circle cx="255" cy="140" r="10" />
+  </g>
+  <g stroke="#7ab7ff" stroke-width="4" stroke-linecap="round">
+    <line x1="360" y1="250" x2="520" y2="250" />
+    <line x1="360" y1="300" x2="520" y2="300" />
+    <line x1="360" y1="350" x2="520" y2="350" />
+  </g>
+  <circle cx="620" cy="280" r="70" fill="#0f3b6f" stroke="#7ab7ff" stroke-width="4" />
+  <path d="M620 235 C600 260 590 285 620 325 C650 285 640 260 620 235 Z" fill="#7dffb0" />
+  <text x="400" y="120" text-anchor="middle" fill="#eaf2ff" font-size="32" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2">2006</text>
+  <text x="400" y="155" text-anchor="middle" fill="#cfe6ff" font-size="18" font-family="Segoe UI, Arial, sans-serif">Peak GHG Emissions</text>
+</svg>
